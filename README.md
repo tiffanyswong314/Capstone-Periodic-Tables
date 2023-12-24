@@ -42,7 +42,7 @@ Users can also create tables and assign capacity to reflect the tables in the re
 ## Creating A Reservation
 Creating a reservations is done by clicking 'New Reservation' on the navigation bar. This requires the customer's first name, last name, reservation date, reservation time, number of guests, and phone number.
 
-![newReservation](screenshots\New Reservation.png)
+![New Reservation](https://github.com/tiffanyswong314/Periodic-Tables-app/assets/137540866/c701ae72-7def-4583-98eb-fae9f2410b9d)
 
 
 ## Managing Reservations
@@ -50,17 +50,20 @@ Managing reservations can be done via the dashboard.
 
 The dashboard by default will list the reservations for today. Use the previous and next buttons to look at reservations in the past or future.
 
-![dashboard](screenshots\Dashboard.png)
+![Dashboard](https://github.com/tiffanyswong314/Periodic-Tables-app/assets/137540866/07c5ba82-aaa5-477b-8951-3f7570adc981)
+
 
 ## Searching for a Specific Reservation
 Users can search for a particular reservation by the phone number associated with the reservation. This can be done by clicking the 'Search' option in the navigation bar.
 
-![search](screenshots\Search.png)
+![Search](https://github.com/tiffanyswong314/Periodic-Tables-app/assets/137540866/875b82d1-f571-438c-a23b-9a726a20947b)
+
 
 ## Managing Tables
 Expanding the restaurant? Create new tables by selecting the 'New Table' option in the navigation bar.
 
-![createTable](screenshots\Create Table.png)
+![Create Table](https://github.com/tiffanyswong314/Periodic-Tables-app/assets/137540866/a53615b2-f42f-4883-be4e-d26db8cb730e)
+
 
 
 # API
